@@ -1,0 +1,8 @@
+name: inspec-workshop
+title: InSpec Profile
+maintainer: dan1ie
+copyright: dan1ie
+copyright_email: daniel.strassburg@arcor.de
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
